@@ -1,3 +1,5 @@
+test
+
 namespace Astronomical_Processing
 {
     public partial class frmMain : Form
